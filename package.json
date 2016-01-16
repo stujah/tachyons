@@ -6,7 +6,7 @@
   "style": "css/tachyons.min.css",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mrmrs/tachyons.git"
+    "url": "git://github.com/tachyons-css/tachyons.git"
   },
   "keywords": [
     "css",
@@ -17,7 +17,7 @@
   "author": "mrmrs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrmrs/tachyons/issues"
+    "url": "https://github.com/tachyons-css/tachyons/issues"
   },
   "devDependencies": {
     "autoprefixer": "^5.2.0",
